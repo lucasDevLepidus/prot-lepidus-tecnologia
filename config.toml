@@ -14,7 +14,7 @@ google_analytics_id = ""
 
 [params.logo]
 alt = "Hugo Hero"
-desktop = "images/logo.svg"
+desktop = "images/logo-lepidus.png"
 desktop_height = "29px"
 desktop_width = "217px"
 mobile = "images/logo-mobile.svg"
